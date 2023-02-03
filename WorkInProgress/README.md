@@ -34,7 +34,7 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Explorando o Estilo Arquitetural REST com Node.js](https://web.dio.me/lab/explorando-o-estilo-arquitetural-rest-com-nodejs/learning/bf6320bf-5a47-46ca-8dbf-f9eadfad51c4)
+- [Explorando o Estilo Arquitetural REST com Node.js](https://web.dio.me/lab/explorando-o-estilo-arquitetural-rest-com-nodejs/learning/bf6320bf-5a47-46ca-8dbf-f9eadfad51c4)
 
 
 
